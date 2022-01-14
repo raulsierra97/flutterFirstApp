@@ -1,6 +1,9 @@
 # flutter_app
 
-A new Flutter project.
+Simple project with three tabs:
++ A name generator
++ A map obtained through the Google Maps API
++ A list of images
 
 ## Getting Started
 
